@@ -2,4 +2,4 @@
 
 安装
 
-go get git@github.com:EddieChan1993/eddcurl
+go get github.com/EddieChan1993/eddcurl

@@ -3,6 +3,7 @@ package main
 import (
 	. "curl/curl"
 	"log"
+	"github.com/EddieChan1993/eddcurl/curl"
 )
 
 
@@ -18,7 +19,7 @@ func main() {
 		"message":"go-lang test【环球娃娃】",
 	}
 
-	req:=NewRequst(url)
+	req:=curl.NewRequst(url)
 	result:=req.
 		SetHeaders(headers).
 		SetPostData(postData).

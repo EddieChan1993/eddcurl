@@ -25,5 +25,4 @@ func main() {
 		Post()
 
 	log.Println(result)
-
 }

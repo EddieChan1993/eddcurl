@@ -1,13 +1,12 @@
 package main
 
 import (
-	. "curl/curl"
+	"testing"
+	."github.com/EddieChan1993/eddcurl/curl"
 	"log"
-	"github.com/EddieChan1993/eddcurl/curl"
 )
 
-
-func main() {
+func Test(t *testing.T) {
 	url:= "http://sms-api.luosimao.com/v1/send.json"
 
 	headers:=map[string]string{
@@ -19,9 +18,9 @@ func main() {
 		"message":"go-lang test【环球娃娃】",
 	}
 
-	req:=curl.NewRequst(url)
+	req:=NewRequst(url)
 	result:=req.
-		SetHeaders(headers).
+	SetHeaders(headers).
 		SetPostData(postData).
 		Post()
 

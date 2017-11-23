@@ -20,7 +20,7 @@
     <favorites_list name="curl" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4007732">
+    <splitter split-orientation="horizontal" split-proportion="0.1">
       <split-first>
         <leaf>
           <file leaf-file-name="eddcurl.go" pinned="false" current-in-tab="true">
@@ -65,8 +65,8 @@
             <entry file="file://$PROJECT_DIR$/readme.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="42">
-                    <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <first_editor relative-caret-position="63">
+                    <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -293,12 +293,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511404584677</updated>
-      <workItem from="1511404585950" duration="7378000" />
+      <workItem from="1511404585950" duration="7498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7378000" />
+    <option name="totallyTimeSpent" value="7498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -421,8 +421,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
